@@ -582,7 +582,7 @@ span {
     display: flex;
     align-items: center;
 }
-.add-video{
+.add-video img{
     width: 750px;
     height: 420px;
     border: 1px solid #ddd;
@@ -759,7 +759,7 @@ padding: 10px;
     margin-left: 10px;
     margin-top: 5px;
 }
-.shop9video {
+.shop9video  img {
     height: 250px;
     width: 500px;
     border: 1px solid black;
